@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Perl, Python**
 
-- 👨‍💻 All of my projects are available at [Not available yet ^^](Not available yet ^^)
+- 👨‍💻 All of my projects are available at (Not available yet ^^)
 
 - 📫 How to reach me **tom.thioulouse@gmail.com**
 
