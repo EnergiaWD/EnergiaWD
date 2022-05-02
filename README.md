@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tom (or Energia)</h1>
-<h3 align="center">A Rookie Network & System Administrator</h3>
+<h3 align="center">A student in Network & IT System</h3>
 
 - 🔭 I’m currently working on **Disaster Recovery Plan**
 
