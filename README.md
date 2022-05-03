@@ -10,7 +10,7 @@
 - 📫 How to reach me **tom.thioulouse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> <a href="https://fr.linkedin.com/in/tom-thioulouse-9083961a3" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages:</h3>
