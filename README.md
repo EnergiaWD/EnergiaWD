@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **tom.thioulouse@gmail.com**
 
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EnergiaWD&bg_color=0d1117&color=b7d1d9&line=76c893&point=34a0a4&area_color=99d98c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://fr.linkedin.com/in/tom-thioulouse-9083961a3" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40"/> </a>
 </p> 
