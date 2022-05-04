@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tom (or Energia)</h1>
-<h3 align="center">A student in Network & IT System</h3>
+<h3 align="center">A student in Network & IT System (guys who work on things like below)</h3>
+
+<div id="gif" align="center">
+  <img src="https://cdn.dribbble.com/users/576057/screenshots/3084413/www.ccccccc.dk_napatech_server.gif" width="100"/>
+</div>
 
 - 🔭 I’m currently working on **Disaster Recovery Plan**
 
