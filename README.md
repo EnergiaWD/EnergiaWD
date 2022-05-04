@@ -5,7 +5,6 @@
   <img src="https://cdn.dribbble.com/users/576057/screenshots/3084413/www.ccccccc.dk_napatech_server.gif" width="50%"/>
 </div>
 
-
 - 🔭 I’m currently working on **Disaster Recovery Plan**
 
 - 🌱 I’m currently learning **Perl, Python**
@@ -13,7 +12,7 @@
 - 👨‍💻 All of my projects are available at (Not available yet ^^)
 
 - 📫 How to reach me **tom.thioulouse@gmail.com**
-
+  
 [![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=EnergiaWD&bg_color=0d1117&color=b7d1d9&line=76c893&point=34a0a4&area_color=99d98c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="center">/- Found me here -\</h3>
