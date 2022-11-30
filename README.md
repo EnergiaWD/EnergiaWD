@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">, I'm Tom (or Energia)</h1>
-<h3 align="center">A student in Network & IT System (guys who work on things like below)</h3>
+<h3 align="center">A student in Network & Cybersecurity (guys who work on things like below)</h3>
 
 <div id="gif" align="center">
   <img src="https://cdn.dribbble.com/users/576057/screenshots/3084413/www.ccccccc.dk_napatech_server.gif" width="50%"/>
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Disaster Recovery Plan**
 
-- 🌱 I’m currently learning **Perl, Python**
+- 🌱 I’m currently learning **Cyber threat intelligence**
 
 - 👨‍💻 All of my projects are available at (Not available yet ^^)
 
