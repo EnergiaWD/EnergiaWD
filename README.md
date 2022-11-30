@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tom.thioulouse@gmail.com**
 
-<script src="https://tryhackme.com/badge/593680"></script>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Energia.png" alt="TryHackMe">
 
 <p align ="center">
 <img src="http://github-readme-streak-stats.herokuapp.com?user=EnergiaWD&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&border=0D1117&currStreakNum=B7D1D9&sideNums=FB8C00&sideLabels=B7D1D9&dates=FB8C00&currStreakLabel=B7D1D9"> </a>
